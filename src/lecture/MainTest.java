@@ -14,6 +14,5 @@ public class MainTest
         System.out.println("char: "); Clavier.lire_char();
         System.out.println("double: "); Clavier.lire_double();
         System.out.println("byte: "); Clavier.lire_byte();
-
     }
 }
